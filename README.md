@@ -1,4 +1,4 @@
-🌦️ AutoAI Weather Prediction Notebook
+# 🌦️ AutoAI Weather Prediction Notebook
 This repository contains a Jupyter Notebook that demonstrates how to use IBM Watsonx AutoAI to train machine learning models for weather condition prediction based on historical weather data.
 
 This notebook leverages Python 3.11 and the ibm-watsonx-ai package to automate the machine learning process — from data loading to model training and evaluation.
