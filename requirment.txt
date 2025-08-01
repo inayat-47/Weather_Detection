@@ -1,1 +1,10 @@
-DATASET LINK:
+🛠️ Requirements
+Python 3.11
+
+ibm-watsonx-ai package
+
+IBM Watsonx API credentials
+
+pandas library
+
+Dataset Link: https://www.kaggle.com/datasets/rohitgrewal/weather-data
