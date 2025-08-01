@@ -8,7 +8,7 @@ The dataset contains 12 columns of hourly weather data. The goal is to predict t
 Weather (Target variable): A categorical column indicating the observed weather condition (e.g., Clear, Cloudy, Rain, Snow).
 
 
-🎯 Project Goals
+# 🎯 Project Goals
 The notebook is designed to:
 
 ✅ Load and explore weather data
@@ -23,7 +23,7 @@ The notebook is designed to:
 
 No manual feature engineering or model tuning required — AutoAI handles it for you.
 
-📈 Example Use Case
+# 📈 Example Use Case
 Provide real-time weather input values (like temperature, humidity, and wind speed), and get predicted weather conditions such as:
 
 ☀️ Clear
